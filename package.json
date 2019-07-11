@@ -6,7 +6,7 @@
     "main": "lib/index.js",
     "dependencies": {
         "q": "1.0.1",
-        "lodash": "2.4.1",
+        "lodash": "4.17.12",
         "marked": "0.3.2",
         "marked-text-renderer": "0.0.1",
         "lunr": "0.5.2",
@@ -18,7 +18,7 @@
         "highlight.js": "8.0.0",
         "tmp": "0.0.23",
         "semver": "2.2.1",
-        "gaze": "~0.5.1",
+        "gaze": "~1.1.0",
         "resolve": "0.6.3",
 
         "gitbook-plugin": "0.0.2",
